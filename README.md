@@ -522,7 +522,7 @@
 [Theano](https://github.com/Theano/Theano) is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
 # Kubernetes
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/95383873-a884d800-08a0-11eb-8eaf-57af5b119f56.png">
@@ -672,7 +672,7 @@
 [Platform9 Managed Kubernetes (PMK)](https://platform9.com/managed-kubernetes/) is a Kubernetes as a service that ensures fully automated Day-2 operations with 99.9% SLA on any environment, whether in data-centers, public clouds, or at the edge.
 
 # Docker
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/113521410-2e32c900-954e-11eb-8311-065fa0099546.png">
@@ -743,7 +743,7 @@
 [Containerd](https://containerd.io) is a daemon that manages the complete container lifecycle of its host system, from image transfer and storage to container execution and supervision to low-level storage to network attachments and beyond. It is available for Linux and Windows.
 
 # Machine Learning
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/134075212-b132056a-5980-4610-a141-dd0677b17b5f.png">
@@ -853,7 +853,7 @@
 [cuML](https://github.com/rapidsai/cuml) is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 # Algorithms
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 [Fuzzy logic](https://www.investopedia.com/terms/f/fuzzy-logic.asp) is a heuristic approach that allows for more advanced decision-tree processing and better integration with rules-based programming.
 
@@ -937,7 +937,7 @@
 **Bayes' theorem. Source:[mathisfun](https://www.mathsisfun.com/data/bayes-theorem.html)**
 
 # Deep Learning Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/133943699-6dcfcb40-ddf7-4501-86e0-41e8aee91fe2.png">
@@ -1129,7 +1129,7 @@
 [Mapping Toolbox™](https://www.mathworks.com/products/mapping.html) is a tool that provides algorithms and functions for transforming geographic data and creating map displays. You can visualize your data in a geographic context, build map displays from more than 60 map projections, and transform data from a variety of sources into a consistent geographic coordinate system.
 
 # Reinforcement Learning Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/133943722-059d8f26-44d7-40c3-9850-4b3a88d46b01.png">
@@ -1331,7 +1331,7 @@
 [Mapping Toolbox™](https://www.mathworks.com/products/mapping.html) is a tool that provides algorithms and functions for transforming geographic data and creating map displays. You can visualize your data in a geographic context, build map displays from more than 60 map projections, and transform data from a variety of sources into a consistent geographic coordinate system.
 
 # Computer Vision Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129494417-b0ee8192-ac41-4a6d-8e1d-4761ffc8bab1.png">
@@ -1413,7 +1413,7 @@
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
 # NLP Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/131386286-e23991d5-a1aa-4ee9-9582-874dc0854c1a.png">
@@ -1514,7 +1514,7 @@
 [Numba](https://github.com/numba/numba) is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
 # Bioinformatics
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/126912438-49cc660e-90c5-4cbc-828b-10e807b99767.png">
@@ -1584,7 +1584,7 @@
 [NCBI BioSystems](https://www.ncbi.nlm.nih.gov/biosystems/) is a  Database that provides integrated access to biological systems and their component genes, proteins, and small molecules, as well as literature describing those biosystems and other related data throughout Entrez.
 
 # Databases
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/119279004-daec0700-bbdd-11eb-9662-b1fc86ec8448.png">
@@ -1734,7 +1734,7 @@
 [Sequel Pro](https://sequelpro.com/) is a fast MacOS database management tool for working with MySQL. This SQL management tool helpful for interacting with your database by easily to adding new databases, new tables, and new rows.
 
 # CUDA Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306481-e17b8f00-ff27-11ea-832f-c85374acb3b1.png">
@@ -1812,7 +1812,7 @@
 [GraphVite](https://graphvite.io/) is a general graph embedding engine, dedicated to high-speed and large-scale embedding learning in various applications.
 
 # MATLAB Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306473-de809e80-ff27-11ea-924b-0a6947ae38bc.png">
@@ -1922,7 +1922,7 @@
 [GNU Octave](https://www.gnu.org/software/octave/) is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.
 
 # Java Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93925952-c0b6fd80-fccb-11ea-9f90-21c4148e3c86.png">
@@ -2022,7 +2022,7 @@
 [YourKit](https://www.yourkit.com/) is a technology leader, creator of the most innovative and intelligent tools for profiling Java & .NET applications.
 
 # Clojure Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/99859408-d23e4980-2b44-11eb-863d-9fb617c9999f.png">
@@ -2102,7 +2102,7 @@
 [Lacinia](https://lacinia.readthedocs.io/en/latest/) is a full GraphQL implementation in pure Clojure.
 
 # C/C++ Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -2251,7 +2251,7 @@
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
 # C# Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306457-d6c0fa00-ff27-11ea-85dc-83dbb8f3e3e6.png">
@@ -2333,7 +2333,7 @@
 [Markdig](https://github.com/lunet-io/markdig) is a fast, powerful, [CommonMark](https://commonmark.org/) compliant, extensible Markdown processor for .NET.
 
 # Python Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93133273-ce490380-f68b-11ea-81d0-7f6a3debe6c0.png">
@@ -2454,7 +2454,7 @@
 [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.
 
 # Go Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719679-068f8c80-fb39-11ea-8baa-9e779ee58a0a.png">
@@ -2531,7 +2531,7 @@
 
 
 # Scala Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/95688293-09bcec00-0bbe-11eb-8d0d-d75706856673.png">
@@ -2606,7 +2606,7 @@
 
 
 # R Development
-[Back to the Top](https://github.com/mikeroyal/Apache-Flume-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Apache-Hive-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/126080648-b515b7c0-e1bd-481b-92d2-c9cdd98ac30c.png">
