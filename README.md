@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/137403790-13648242-8461-4520-b7b2-c2ddef375168.png">
   <br />
   Apache Hive Guide
 </h1>
@@ -8,10 +8,10 @@
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/137403792-53625923-43e4-4ffd-ab69-76187be8c853.png">
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/137403795-f60f1e01-4954-4491-aa7f-87aafc876692.png">
  <br />
 </p>
 
