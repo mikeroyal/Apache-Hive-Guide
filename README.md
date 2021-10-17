@@ -11,11 +11,19 @@
 <img src="https://user-images.githubusercontent.com/45159366/137403792-53625923-43e4-4ffd-ab69-76187be8c853.png">
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/137403795-f60f1e01-4954-4491-aa7f-87aafc876692.png">
+<img src="https://user-images.githubusercontent.com/45159366/137644989-1d5e14b6-6a40-4128-8df7-127a7c0b8d59.png">
  <br />
 </p>
 
- Apache Hive Architecture & Components. Source: [DataFlair](https://data-flair.training/blogs/apache-hive-architecture/)
+Apache Hive Architecture for In-Memory Computing. Source: [Hortonworks](https://hortonworks.com/blog/apache-hive-going-memory-computing/)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/137644997-b47c7ca4-5de1-4d66-bcb5-ce8e4723685d.png">
+ <br />
+</p>
+
+Apache Hive Cloud Architectures for Interactive Analytics. Source: [Cloudera](https://blog.cloudera.com/cloud-architectures-interactive-analytics-apache-hive/)
+
 
 # Table of Contents
 
